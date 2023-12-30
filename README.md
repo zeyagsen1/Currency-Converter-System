@@ -1,0 +1,1 @@
+This program is a dynamic tool fueled by live XML data. It transforms the currency exchange experience by allowing users to select their desired currencies effortlessly. As they input numerical values, the program performs instant conversions in real-time, keeping pace with their typing speed
