@@ -1,0 +1,10 @@
+C:\Users\ibrah\Desktop\C#\ders6\ders6\bin\Debug\ders6.exe.config
+C:\Users\ibrah\Desktop\C#\ders6\ders6\bin\Debug\ders6.exe
+C:\Users\ibrah\Desktop\C#\ders6\ders6\bin\Debug\ders6.pdb
+C:\Users\ibrah\Desktop\C#\ders6\ders6\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+C:\Users\ibrah\Desktop\C#\ders6\ders6\obj\Debug\ders6.Form1.resources
+C:\Users\ibrah\Desktop\C#\ders6\ders6\obj\Debug\ders6.Properties.Resources.resources
+C:\Users\ibrah\Desktop\C#\ders6\ders6\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+C:\Users\ibrah\Desktop\C#\ders6\ders6\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\Desktop\C#\ders6\ders6\obj\Debug\ders6.exe
+C:\Users\ibrah\Desktop\C#\ders6\ders6\obj\Debug\ders6.pdb
